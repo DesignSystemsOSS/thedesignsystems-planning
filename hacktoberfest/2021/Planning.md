@@ -3,7 +3,7 @@
 ## Projects under hacktoberfest this year
 
 1. Eccentric Touch - https://www.github.com/DesignSystemsOSS/eccentrictouch
-2. The DesignSystems' website - https://www.gihtub.com/DesignSystemsOSS/thedesignsystems
+2. The DesignSystems' website - https://www.github.com/DesignSystemsOSS/thedesignsystems
 
 ### Eccentric Touch
 
